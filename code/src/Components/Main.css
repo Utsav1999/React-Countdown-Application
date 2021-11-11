@@ -1,0 +1,39 @@
+.CountDown {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20%;
+}
+
+#Title {
+    font-size: 50px;
+}
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+    display: inline;
+    margin: 10px;
+}
+
+.Field-style {
+    display: inline;
+}
+
+.Deadline-style {
+    width: 30%;
+    margin: 5px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+
+.Button-style {
+    width: 100px;
+    padding: 5px;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: #66c3f8;
+    color: white;
+    border-color: #e0e1e2;
+}
+
+.Button-style:hover {
+    background-color: #0666c7;
+}
